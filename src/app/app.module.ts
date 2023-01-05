@@ -12,7 +12,7 @@ import { FormularioModule } from './formulario/formulario.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormularioModule
+    FormularioModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
